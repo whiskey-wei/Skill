@@ -50,4 +50,4 @@
     //正确，const_cast可以改变运算对象的底层const。但是使用时一定要知道num不是const的类型。
     q = 5;
     ```
-## 2.
+## 2.static
